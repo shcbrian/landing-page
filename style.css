@@ -1,0 +1,16 @@
+* {
+  outline: 2px solid red;
+}
+
+body {
+    font-family: 'Roboto';
+}
+
+.hero {
+    background: #1F2937;
+    display: flex;
+}
+
+.header {
+    display:flex;
+}
